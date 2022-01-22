@@ -46,7 +46,7 @@ lang: en-US
 # Header Title
 header-title: Lisa Laffs
 # Header Tagline
-headter-tagline: Live, Love, and Laugh along with Lisa
+header-tagline: Live, Love, and Laugh along with Lisa
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -59,11 +59,10 @@ email: hello@lisalaffs.com
 ######  Global Social Links   ######
 ####################################
 youtube: "#"
-pinterest: "#"
-facebook: "#"
-twitter: "#"
-google-plus: "#"
-vimeo: "#"
+facebook: "https://www.facebook.com/lisalaffslol"
+instagram: "https://www.instagram.com/lisalaffslol"
+twitter: "https://twitter.com/lisalaffslol"
+tiktok: "https://www.tiktok.com/@lisalaffslol"
 
 #####################################
 #############   About   #############
@@ -74,6 +73,6 @@ about-description: An online personality with a strange sense of humor and an in
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Find Lisa Laffs on all of your favorite platforms.
+footer-description: Find Lisa Laffs on all of your favorite sites.
 footer-copyright-name: Cardillo's Creations, LLC
 footer-copyright-year: 2021
