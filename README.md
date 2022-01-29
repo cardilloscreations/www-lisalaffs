@@ -1,6 +1,6 @@
 # LisaLaffs.com
 
-This is the source code for the [LisaLaffs.com](https://www.lisalaffs.com) website.
+This is the source code for the [LisaLaffs.com](https://lisalaffs.com) website.
 
 -----
 
