@@ -74,5 +74,6 @@ about-description: An online personality with a strange sense of humor and an in
 #############   Footer   ############
 #####################################
 footer-description: Find Lisa Laffs on all of your favorite sites.
-footer-copyright-name: Cardillo's Creations, LLC
+footer-copyright-text: Cardillo's Creations, LLC
+footer-copyright-link: https://cardilloscreations.com
 footer-copyright-year: 2021
